@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# TODO: replace with your real GitHub Pages URL after first deploy
+Sitemap: https://USERNAME.github.io/REPO/sitemap.xml
